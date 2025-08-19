@@ -1,4 +1,4 @@
 .venv/
-.env  # Ignore sensitive files like .env
+multi_tool_agent/.env  # Ignore sensitive files like .env
 __pycache__/
 *.pyc
